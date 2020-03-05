@@ -5,8 +5,8 @@
     <description>Developer</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Mar 2020 20:50:20 -0500</pubDate>
-    <lastBuildDate>Wed, 04 Mar 2020 20:50:20 -0500</lastBuildDate>
+    <pubDate>Wed, 04 Mar 2020 22:22:02 -0500</pubDate>
+    <lastBuildDate>Wed, 04 Mar 2020 22:22:02 -0500</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
 
     
@@ -73,7 +73,7 @@ I love to think and create interesting stuffs not limited by category, I also en
         
           <item>
             <title>My Projects</title>
-            <description>There going to be a lot of stuffs here! But for now, you can check out my [github](github.com/smalllicheng).</description>
+            <description>There going to be a lot of stuffs here! But for now, you can check out my [github](https://github.com/smalllicheng).</description>
             <link>http://localhost:4000/my-projects.html</link>
           </item>
         
