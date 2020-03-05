@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Welcome!
-tags: []
-image: './images/pages/index.JPG'
+# tags: ['']
+image: './images/posts/1.jpg'
 ---
 
 I'm building my personal website!  
