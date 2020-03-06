@@ -8,16 +8,10 @@
 # Site settings
 title:       Chengzhe Li
 email:       'smalllicheng@gmail.com'
-description: 'Developer'
+description: 'CUNZHE'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://smalllicheng.github.io/' # The base hostname & protocol for your site
-twitter:     'https://twitter.com/MemoriesTriumph'
-github:      'github.com/smalllicheng'
-instagram:   ''
-facebook:    ''
-linkedin:    'linkedin.com/in/cunzhe'
-# gitlab:      'smalllicheng'
-soundcloud:  'soundcloud.com/cunzhe'
+
 
 markdown:  kramdown
 permalink: pretty

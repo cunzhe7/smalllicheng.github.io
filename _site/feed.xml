@@ -2,25 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chengzhe Li</title>
-    <description>Developer</description>
+    <description>CUNZHE</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Mar 2020 22:29:05 -0500</pubDate>
-    <lastBuildDate>Wed, 04 Mar 2020 22:29:05 -0500</lastBuildDate>
+    <pubDate>Fri, 06 Mar 2020 13:21:35 -0500</pubDate>
+    <lastBuildDate>Fri, 06 Mar 2020 13:21:35 -0500</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
 
     
       <item>
         <title>Welcome!</title>
-        <description>&lt;p&gt;I’m building my personal website!&lt;/p&gt;
+        <description>&lt;p&gt;Welcome to my personal website, it’s still under building!&lt;/p&gt;
 
-&lt;p&gt;All kinds of advices are WELCOMED!&lt;/p&gt;
+&lt;p&gt;All kinds of advices are welcomed!&lt;/p&gt;
 
 &lt;p&gt;Whether it’s about writing, playing, developing, composing, or even about grammar!&lt;/p&gt;
 </description>
         <pubDate>Wed, 04 Mar 2020 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/2020/03/04/my-first-post/</link>
         <guid isPermaLink="true">http://localhost:4000/2020/03/04/my-first-post/</guid>
+      </item>
+    
+      <item>
+        <title>Access main program. Access main security. Access main program grid</title>
+        <description>
+</description>
+        <pubDate>Mon, 21 Dec 2015 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2015/12/21/access-main-program-access-main-security-access-main-program-grid/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/21/access-main-program-access-main-security-access-main-program-grid/</guid>
       </item>
     
 
@@ -34,7 +43,7 @@
           <item>
             <title>About</title>
             <description>&lt;p&gt;Hi I’m Chengzhe a Master Student from University of Massachusetts Amherst!&lt;br /&gt;
-I’m a developer, music lover, and game player!&lt;br /&gt;
+I’m a developer, a music lover, and a game player!&lt;br /&gt;
 I’m looking for a summer intership related to software developement or game industry.&lt;br /&gt;
 I love to think and create interesting stuffs not limited by category, I also enjoy learning new skills and the feeling of making progress.&lt;/p&gt;
 
@@ -77,6 +86,12 @@ I love to think and create interesting stuffs not limited by category, I also en
             <link>http://localhost:4000/my-projects.html</link>
           </item>
         
+      
+    
+      
+    
+      
+    
       
     
 
