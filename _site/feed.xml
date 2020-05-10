@@ -5,8 +5,8 @@
     <description>CUNZHE</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Mar 2020 13:21:35 -0500</pubDate>
-    <lastBuildDate>Fri, 06 Mar 2020 13:21:35 -0500</lastBuildDate>
+    <pubDate>Sat, 09 May 2020 20:09:38 -0400</pubDate>
+    <lastBuildDate>Sat, 09 May 2020 20:09:38 -0400</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
 
     
@@ -23,15 +23,6 @@
         <guid isPermaLink="true">http://localhost:4000/2020/03/04/my-first-post/</guid>
       </item>
     
-      <item>
-        <title>Access main program. Access main security. Access main program grid</title>
-        <description>
-</description>
-        <pubDate>Mon, 21 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2015/12/21/access-main-program-access-main-security-access-main-program-grid/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/access-main-program-access-main-security-access-main-program-grid/</guid>
-      </item>
-    
 
     
       
@@ -44,10 +35,10 @@
             <title>About</title>
             <description>&lt;p&gt;Hi I’m Chengzhe a Master Student from University of Massachusetts Amherst!&lt;br /&gt;
 I’m a developer, a music lover, and a game player!&lt;br /&gt;
-I’m looking for a summer intership related to software developement or game industry.&lt;br /&gt;
+I’m an incoming summer intership at Tencent IEG for Engine developing.&lt;br /&gt;
 I love to think and create interesting stuffs not limited by category, I also enjoy learning new skills and the feeling of making progress.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;./images/pages/resume.pdf&quot;&gt;My resume&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;./images/pages/resume.pdf&quot;&gt;My (out of date) resume&lt;/a&gt;&lt;/p&gt;
 </description>
             <link>http://localhost:4000/about.html</link>
           </item>
@@ -60,7 +51,9 @@ I love to think and create interesting stuffs not limited by category, I also en
         
           <item>
             <title>Game I'm playing</title>
-            <description>Recently I'm playing... OK recently I'm busy on school work and barely play game.</description>
+            <description>The semeste finally ends, and I got some time to play the games I wanted to play!
+
+I finished playing Katana Zero. Which is amazing! The gameplay is tense and thrilling. The story is attractive, and the way interaction is creative! If you haven't played it before, don't miss out!</description>
             <link>http://localhost:4000/games.html</link>
           </item>
         
@@ -82,16 +75,14 @@ I love to think and create interesting stuffs not limited by category, I also en
         
           <item>
             <title>My Projects</title>
-            <description>There going to be a lot of stuffs here! But for now, you can check out my [github](https://github.com/smalllicheng).</description>
+            <description>[My github](https://github.com/smalllicheng)
+
+[CookingPapa](https://github.com/smalllicheng/CookingPapa)
+
+(Some project I've done is class project so the professor may need to reuse them for the future so I can't post them on github.)</description>
             <link>http://localhost:4000/my-projects.html</link>
           </item>
         
-      
-    
-      
-    
-      
-    
       
     
 

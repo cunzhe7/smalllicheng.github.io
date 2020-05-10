@@ -4,4 +4,8 @@ title: My Projects
 image: '/images/pages/styleguide.jpg'
 ---
 
-There going to be a lot of stuffs here! But for now, you can check out my [github](https://github.com/smalllicheng).
+[My github](https://github.com/smalllicheng)
+
+[CookingPapa](https://github.com/smalllicheng/CookingPapa)
+
+(Some project I've done is class project so the professor may need to reuse them for the future so I can't post them on github.)
