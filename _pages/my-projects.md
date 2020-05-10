@@ -6,6 +6,10 @@ image: '/images/pages/styleguide.jpg'
 
 [My github](https://github.com/smalllicheng)
 
+
+![](/images/CP1.png)
+![](/images/CP2.png)
+![](/images/CP3.png)
 [CookingPapa](https://github.com/smalllicheng/CookingPapa)
 
 (Some project I've done is class project so the professor may need to reuse them for the future so I can't post them on github.)
