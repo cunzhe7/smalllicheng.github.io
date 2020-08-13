@@ -10,4 +10,4 @@ I'm an incoming summer intership at Tencent IEG for Engine developing.
 I love to think and create interesting stuffs not limited by category, I also enjoy learning new skills and the feeling of making progress.
 
     
-[My (out of date) resume](./images/pages/resume.pdf)
+[My resume](./images/pages/resume.pdf)
