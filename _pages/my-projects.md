@@ -11,6 +11,11 @@ In progress:
 I gave a presentation about Autophase(Ameer et al.), a machine learning solution for compiler phase ordering problem, on the CS692(Sys for ML, ML for Sys) Seminar. We also did a lot of paper reading and reviewing in this course. A very interesting and educational course! Thank you Prof Hui.
 [Autophase Presentation](/images/AUTOPHASE.pdf)
 
+
+Face-mask detector
+![mask](/images/Mask.jpg)
+
+
 ![](/images/CP1.png)
 ![](/images/CP2.png)
 ![](/images/CP3.png)
@@ -20,8 +25,6 @@ Bazaar
 ![Bazaar](/images/Bazaar.png)
 
 
-Face-mask detector
-![mask](/images/Mask.jpg)
 
 
 
