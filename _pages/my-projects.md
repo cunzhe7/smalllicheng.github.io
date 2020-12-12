@@ -16,10 +16,11 @@ I gave a presentation about Autophase(Ameer et al.), a machine learning solution
 ![mask](/images/Mask.jpg)
 
 
+[CookingPapa](https://github.com/smalllicheng/CookingPapa)
 ![](/images/CP1.png)
 ![](/images/CP2.png)
 ![](/images/CP3.png)
-[CookingPapa](https://github.com/smalllicheng/CookingPapa)
+
 
 Bazaar
 ![Bazaar](/images/Bazaar.png)
