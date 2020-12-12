@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Game I'm playing
-image: '/images/pages/Genshin.jpg'
+image: '/images/Genshin.jpg'
 ---
 
 2020.12.12
