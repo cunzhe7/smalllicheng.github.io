@@ -5,20 +5,20 @@
     <description>CUNZHE</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 May 2020 20:19:02 -0400</pubDate>
-    <lastBuildDate>Sat, 09 May 2020 20:19:02 -0400</lastBuildDate>
+    <pubDate>Sun, 13 Dec 2020 00:49:21 +0800</pubDate>
+    <lastBuildDate>Sun, 13 Dec 2020 00:49:21 +0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
 
     
       <item>
         <title>Welcome!</title>
-        <description>&lt;p&gt;Welcome to my personal website, it’s still under building!&lt;/p&gt;
+        <description>&lt;p&gt;Welcome to my personal website, it’s still under construction!&lt;/p&gt;
 
 &lt;p&gt;All kinds of advices are welcomed!&lt;/p&gt;
 
-&lt;p&gt;Whether it’s about writing, playing, developing, composing, or even about grammar!&lt;/p&gt;
+&lt;p&gt;(Also, Hope you are doing well during the pandemic, keep healthy!)&lt;/p&gt;
 </description>
-        <pubDate>Wed, 04 Mar 2020 00:00:00 -0500</pubDate>
+        <pubDate>Wed, 04 Mar 2020 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2020/03/04/my-first-post/</link>
         <guid isPermaLink="true">http://localhost:4000/2020/03/04/my-first-post/</guid>
       </item>
@@ -33,12 +33,14 @@
         
           <item>
             <title>About</title>
-            <description>&lt;p&gt;Hi I’m Chengzhe a Master Student from University of Massachusetts Amherst!&lt;br /&gt;
-I’m a developer, a music lover, and a game player!&lt;br /&gt;
-I’m an incoming summer intership at Tencent IEG for Engine developing.&lt;br /&gt;
+            <description>&lt;p&gt;Hi I’m Chengzhe Li, a CS Master’s Student from University of Massachusetts Amherst!&lt;br /&gt;
+I’m a developer, a music aficionado, and a gamer! I play guitar and bass after I finished coding, it’s a really good way to relax for me. 
+I’m actively looking for a summer internship for 2021. I have a broad interest includes Systems(Distributed Systems, Operating Systems, System for Machine Learning, etc..), Networking, Graphics and Visions, and game programming(Client side, server side, and engine). 
 I love to think and create interesting stuffs not limited by category, I also enjoy learning new skills and the feeling of making progress.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;./images/pages/resume.pdf&quot;&gt;My (out of date) resume&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please contact me at firstname+lastnameATumassDOTedu, or click on the small email icon on the bottom of this page.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;./images/pages/resume.pdf&quot;&gt;My resume&lt;/a&gt;&lt;/p&gt;
 </description>
             <link>http://localhost:4000/about.html</link>
           </item>
@@ -51,7 +53,25 @@ I love to think and create interesting stuffs not limited by category, I also en
         
           <item>
             <title>Game I'm playing</title>
-            <description>The semeste finally ends, and I got some time to play the games I wanted to play!
+            <description>2020.12.12
+
+Another semester had ended! I finished the most difficult and tensive semester in my academic life, and the result is satisifiying. I didn't have a lot of time to play games this semester, the one I played most recently is Genshin Impact. I enjoy the combat system and the exquisite characters. The storys, especially for every single character are drawing a astoundingly deep fantacy world. I love the Chinese elements and OST of Liyue too! The game is still under developing, and I think it's very promising! P.S. Don't like the gacha part that much :P 
+
+
+![Hades](/images/Hades.jpg)
+Also, congrats to Hades for winning best independent game and action game in TGA, and a lot of other rewards! One of the best games I played this year. Good job Supergiant!
+
+
+
+
+
+
+
+2020.5.10
+
+![Katana](/images/pages/katana.jpg)
+
+The semester finally ends, and I got some time to play the games I wanted to play!
 
 I finished playing Katana Zero. Which is amazing! The gameplay is tense and thrilling. The story is attractive, and the way interaction is creative! If you haven't played it before, don't miss out!</description>
             <link>http://localhost:4000/games.html</link>
@@ -64,8 +84,11 @@ I finished playing Katana Zero. Which is amazing! The gameplay is tense and thri
       
         
           <item>
-            <title>My Musics</title>
-            <description>The music I made/played. I love to play bass, guitar, and I'm learning composing and producing! Checkout my [Soundcloud](soundcloud.com/cunzhe)!</description>
+            <title>Music</title>
+            <description>The music I made/played. I love to play bass, guitar, and I'm learning composing and producing! Checkout my [Soundcloud](https://soundcloud.com/cunzhe)!
+
+[Melody - Koji Tamaki Cover](https://soundcloud.com/cunzhe/melody)
+I'm learning Japanese recently and this is one of my favorite songs. I learned to play and sing it. Hope you like it! </description>
             <link>http://localhost:4000/music.html</link>
           </item>
         
@@ -74,14 +97,30 @@ I finished playing Katana Zero. Which is amazing! The gameplay is tense and thri
       
         
           <item>
-            <title>My Projects</title>
+            <title>Projects</title>
             <description>[My github](https://github.com/smalllicheng)
 
+In progress
+[CompressedNeurons](https://github.com/smalllicheng/superneurons-release)
+
+I gave a presentation about Autophase(Ameer et al.), a machine learning solution for compiler phase ordering problem, on the CS692(Sys for ML, ML for Sys) Seminar. We also did a lot of paper reading and reviewing in this course. A very interesting and educational course! Thank you Prof Hui.
+[Autophase Presentation](/images/AUTOPHASE.pdf)
 
 ![](/images/CP1.png)
 ![](/images/CP2.png)
 ![](/images/CP3.png)
 [CookingPapa](https://github.com/smalllicheng/CookingPapa)
+
+Bazaar
+![Bazaar](/images/Bazaar.png)
+
+
+Face-mask detector
+![mask](/images/Mask.png)
+
+
+
+
 
 (Some project I've done is class project so the professor may need to reuse them for the future so I can't post them on github.)</description>
             <link>http://localhost:4000/my-projects.html</link>
