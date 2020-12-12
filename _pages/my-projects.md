@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Projects
-image: ''
 ---
 
 [My github](https://github.com/smalllicheng)
@@ -22,10 +21,10 @@ Bazaar
 
 
 Face-mask detector
-![mask](/images/Mask.png)
+![mask](/images/Mask.jpg)
 
 
 
 
 
-(Some project I've done is class project so the professor may need to reuse them for the future so I can't post them on github.)
+(Some projects I've done are class projects so I can't post them publicly.)
