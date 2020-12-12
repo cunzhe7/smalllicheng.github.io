@@ -12,7 +12,7 @@ I gave a presentation about Autophase(Ameer et al.), a machine learning solution
 [Autophase Presentation](/images/AUTOPHASE.pdf)
 
 
-Face-mask detector
+[Face-mask detector](https://github.com/smalllicheng/face-mask)
 ![mask](/images/Mask.jpg)
 
 
