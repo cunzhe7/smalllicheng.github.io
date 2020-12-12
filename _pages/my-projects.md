@@ -6,7 +6,7 @@ image: ''
 
 [My github](https://github.com/smalllicheng)
 
-In progress
+In progress:
 [CompressedNeurons](https://github.com/smalllicheng/superneurons-release)
 
 I gave a presentation about Autophase(Ameer et al.), a machine learning solution for compiler phase ordering problem, on the CS692(Sys for ML, ML for Sys) Seminar. We also did a lot of paper reading and reviewing in this course. A very interesting and educational course! Thank you Prof Hui.
