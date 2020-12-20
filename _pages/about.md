@@ -4,11 +4,13 @@ title: About
 image: '/images/pages/about.jpeg'
 ---
 
-Hi I'm Chengzhe Li, a CS Master's Student from University of Massachusetts Amherst!  
-I'm a developer, a music aficionado, and a gamer! I play guitar and bass after I finished coding, it's the best way to relax for me. 
-I'm actively looking for a summer internship for 2021. I have a broad interest includes Systems(Distributed Systems, Operating Systems, System for Machine Learning, etc..), Networking, Graphics and Visions, and game programming(Client side, server side, and engine). 
-I love to think and create interesting stuffs not limited by category, I also enjoy learning new skills and the feeling of making progress.
+Chengzhe Li is a graduate student at University of Massachusetts Amherst, currently majoring in Computer Science. He has a broad interest in Systems, Networks, Machine Learning.
 
-Please contact me at firstname+lastnameATumassDOTedu, or click on the small email icon on the bottom of this page.
+Previously he has worked for Tencent as an intern, driving efforts to optimize the efficiency of distributed tasks for a large scale distributed framework in .NET. He has an outstanding academic performance record with vast experience building many different varieties of applications. For example, he has constructed a P2P market system using RPCs, RESTful microservices using Flask, and a face-mask detector using OpenCV and TensorFlow.
+
+Recently, he has worked on optimizing memory usage of an open-source machine learning framework with his team. Chengzhe is a highly self-motivated individual who is always willing to work alongside and learn from teammates. Besides academic and industry experience, he also loves to learn in his personal time. He's currently learning graphics and the guitar on his own. 
+
+
+Contact: firstname+lastnameATumassDOTedu, or click on the small email icon on the bottom of this page.
     
-[My resume](./images/pages/resume.pdf)
+[Resume](./images/pages/resume.pdf)
