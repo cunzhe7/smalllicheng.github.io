@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Game I'm playing
-image: ''
 ---
 
 
