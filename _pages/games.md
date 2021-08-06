@@ -1,15 +1,27 @@
 ---
 layout: page
 title: Game I'm playing
-image: '/images/Genshin.jpg'
+image: ''
 ---
 
+
+2021.08.06
+
+![ItTakesTwo](/images/It_Takes_Two_cover_art.png)
+
+Just finished my internship @ Microsoft, I'm working on It Takes Two with my girlfriend recently. I wish I can finish it within my summer break. It is a fantastic game! 
+
+
+
 2020.12.12
+
+![Genshin](/images/Genshin.jpg)
 
 Another semester had ended! I finished the most difficult and tensive semester in my academic life, and the result is satisifiying. I didn't have a lot of time to play games this semester, the one I played most recently is Genshin Impact. I enjoy the combat system and the exquisite characters. The storys, especially for every single character are drawing a astoundingly deep fantacy world. I love the Chinese elements and OST of Liyue too! The game is still under developing, and I think it's very promising! P.S. Don't like the gacha part that much :P 
 
 
 ![Hades](/images/Hades.jpg)
+
 Also, congrats to Hades for winning best independent game and action game in TGA, and a lot of other rewards! One of the best games I played this year. Good job Supergiant!
 
 
