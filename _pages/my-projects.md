@@ -5,6 +5,8 @@ title: Projects
 
 [My github](https://github.com/smalllicheng)
 
+## NeRF
+I gave another presentation on [Intelligent Visual Computing: A Neural Network Approach](https://people.cs.umass.edu/~kalo/courses/visual_computing/index.html) course about NeRF, the [slides](/images/NeRF_presentation_chengzhe.pdf) is here. It was a great course, and I learned a lot about 3D Computer Graphics and Vision. In both tranditional approaches and machine learning approaches! It was one of the best course I've ever took!
 
 ## [CompressedNeurons](https://github.com/smalllicheng/superneurons-release)
 * Worked on existing research project SuperNeurons, a framework designed to improve GPU memory efficiency. Researched, reproduced, and tested the existing framework. Implementing new allocating method to further improve and efficiency to adapt larger batcher size and deeper network.
